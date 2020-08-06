@@ -45,9 +45,9 @@
 
 ---
 
->
-> We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it’s an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish.
+*"We have to go from what is essentially an industrial model of education, a manufacturing model, which is based on linearity and conformity and batching people. We have to move to a model that is based more on principles of agriculture. We have to recognize that human flourishing is not a mechanical process; it’s an organic process. And you cannot predict the outcome of human development. All you can do, like a farmer, is create the conditions under which they will begin to flourish."*
 
+*- [Sir Ken Robinson](https://www.youtube.com/watch?time_continue=2&v=iG9CE55wbtY&feature=emb_logo) -*
 
 [twitter]: https://twitter.com/t_rajapakse
 [linkedin]: https://www.linkedin.com/in/t-rajapakse/
