@@ -1,5 +1,6 @@
 ## :coffee: I'm Thilina and I turn coffee into code :coffee:
 
+![](https://komarev.com/ghpvc/?username=ThilinaRajapakse)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
