@@ -27,11 +27,13 @@
 [<img align="left" alt="ThilinaRajapakse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ThilinaRajapakse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</br>
+
 ## Support:
 
-If you find my work useful, please consider becoming a Patron!
+If you find my work useful, please consider <a href="https://www.patreon.com/bePatron?u=20014970" data-patreon-widget-type="become-patron-button">becoming a Patron!</a>!
 
-<a href="https://www.patreon.com/bePatron?u=20014970" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 
 ---
 
