@@ -10,12 +10,6 @@
 - :briefcase: Consulting and Freelancing
 - :100: Iron Man is the best Avenger
 
-<br />
-<br />
-<br />
-<br />
-
----
 
 ## Interests-Obsessions-Goals-Dreams-Stuff
 
@@ -25,17 +19,22 @@
 - :dragon: Reading fantasy. Watching Science-Fiction.
 - :soccer: Liverpool FC. You'll never walk alone.
 
+---
 
-### Connect:
+## Connect:
 
 [<img align="left" alt="ThilinaRajapakse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ThilinaRajapakse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+## Support:
+
+If you find my work useful, please consider becoming a Patron!
+
+<a href="https://www.patreon.com/bePatron?u=20014970" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ---
 
-### 📕 Latest Medium Posts
+##  # 📕 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [BART for Paraphrasing with Simple Transformers](https://towardsdatascience.com/bart-for-paraphrasing-with-simple-transformers-7c9ea3dfdd8c?source=rss-6b1e2355088e------2)
 - [Hyperparameter Optimization for Optimum Transformer Models](https://towardsdatascience.com/hyperparameter-optimization-for-optimum-transformer-models-b95a32b70949?source=rss-6b1e2355088e------2)
