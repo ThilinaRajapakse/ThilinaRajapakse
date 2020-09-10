@@ -41,7 +41,6 @@ If you find my work useful, please consider <a href="https://www.patreon.com/beP
 <!-- BLOG-POST-LIST:START -->
 - [BART for Paraphrasing with Simple Transformers](https://towardsdatascience.com/bart-for-paraphrasing-with-simple-transformers-7c9ea3dfdd8c?source=rss-6b1e2355088e------2)
 - [Hyperparameter Optimization for Optimum Transformer Models](https://towardsdatascience.com/hyperparameter-optimization-for-optimum-transformer-models-b95a32b70949?source=rss-6b1e2355088e------2)
-- [The Guide to Multi-Tasking with the T5 Transformer](https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b?source=rss-6b1e2355088e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
