@@ -39,6 +39,7 @@ If you find my work useful, please consider <a href="https://www.patreon.com/beP
 
 ##  📕 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with Duplicates](https://medium.com/skilai/dealing-with-duplicates-7479dcf1cd96?source=rss-6b1e2355088e------2)
 - [BART for Paraphrasing with Simple Transformers](https://towardsdatascience.com/bart-for-paraphrasing-with-simple-transformers-7c9ea3dfdd8c?source=rss-6b1e2355088e------2)
 - [Hyperparameter Optimization for Optimum Transformer Models](https://towardsdatascience.com/hyperparameter-optimization-for-optimum-transformer-models-b95a32b70949?source=rss-6b1e2355088e------2)
 <!-- BLOG-POST-LIST:END -->
