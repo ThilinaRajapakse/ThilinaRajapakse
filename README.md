@@ -16,7 +16,7 @@
 
 - :shield: Fighting pseudoscience and misinformation.
 - :microscope: Better education for everyone. Not everyone learns the same way.
-- :green_heart: Mental health awareness. I have ADHD.
+- :green_heart: Mental health awareness. I am ADHD.
 - :dragon: Reading fantasy. Watching Science-Fiction.
 - :soccer: Liverpool FC. You'll never walk alone.
 
