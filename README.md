@@ -43,7 +43,6 @@ If you find my work useful, please consider <a href="https://www.patreon.com/beP
 - [Going Global —How to Multi-Task in Multiple Languages with the mT5 Transformer](https://towardsdatascience.com/going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c?source=rss-6b1e2355088e------2)
 - [Divide and Conquer — How to Deal With Complex Datasets](https://medium.com/skilai/divide-and-conquer-how-to-deal-with-complex-datasets-986b9589bc7?source=rss-6b1e2355088e------2)
 - [Dealing with Duplicates](https://medium.com/skilai/dealing-with-duplicates-7479dcf1cd96?source=rss-6b1e2355088e------2)
-- [BART for Paraphrasing with Simple Transformers](https://towardsdatascience.com/bart-for-paraphrasing-with-simple-transformers-7c9ea3dfdd8c?source=rss-6b1e2355088e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
