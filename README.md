@@ -42,7 +42,6 @@ If you find my work useful, please consider <a href="https://www.patreon.com/beP
 - [A Quick Overview of NVIDIA Jarvis — An End-to-End Framework for Conversational AI](https://towardsdatascience.com/a-quick-overview-of-nvidia-jarvis-an-end-to-end-framework-for-conversational-ai-fd808d4f6607?source=rss-6b1e2355088e------2)
 - [How to Train an mT5 Model for Translation With Simple Transformers](https://towardsdatascience.com/how-to-train-an-mt5-model-for-translation-with-simple-transformers-30ba5fa66c5f?source=rss-6b1e2355088e------2)
 - [Going Global —How to Multi-Task in Multiple Languages with the mT5 Transformer](https://towardsdatascience.com/going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c?source=rss-6b1e2355088e------2)
-- [Divide and Conquer — How to Deal With Complex Datasets](https://medium.com/skilai/divide-and-conquer-how-to-deal-with-complex-datasets-986b9589bc7?source=rss-6b1e2355088e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
