@@ -39,7 +39,7 @@ If you find my work useful, please consider <a href="https://www.patreon.com/beP
 
 ##  📕 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding the Needle in the Haystack: How To Use the Dense Passage Retriever](https://medium.com/swlh/finding-the-needle-in-the-haystack-how-to-use-the-dense-passage-retriever-adc6a5527ff4?source=rss-6b1e2355088e------2)
+- [Finding the Needle in the Haystack: How To Use the Dense Passage Retriever](https://pub.towardsai.net/finding-the-needle-in-the-haystack-how-to-use-the-dense-passage-retriever-adc6a5527ff4?source=rss-6b1e2355088e------2)
 - [A Quick Overview of NVIDIA Jarvis — An End-to-End Framework for Conversational AI](https://towardsdatascience.com/a-quick-overview-of-nvidia-jarvis-an-end-to-end-framework-for-conversational-ai-fd808d4f6607?source=rss-6b1e2355088e------2)
 - [How to Train an mT5 Model for Translation With Simple Transformers](https://towardsdatascience.com/how-to-train-an-mt5-model-for-translation-with-simple-transformers-30ba5fa66c5f?source=rss-6b1e2355088e------2)
 - [Going Global —How to Multi-Task in Multiple Languages with the mT5 Transformer](https://towardsdatascience.com/going-global-how-to-multi-task-in-multiple-languages-with-the-mt5-transformer-892617cd890c?source=rss-6b1e2355088e------2)
